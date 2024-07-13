@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perchiru.github.io/sitemap
+Sitemap: https://perchiru.github.io/app/sitemap
+Sitemap: https://perchiru.github.io/assets/sitemap
+Sitemap: https://perchiru.github.io/css/sitemap
+Sitemap: https://perchiru.github.io/includes/sitemap
+Sitemap: https://perchiru.github.io/item/sitemap
+Sitemap: https://perchiru.github.io/src/sitemap
